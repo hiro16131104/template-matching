@@ -1,0 +1,10 @@
+# git管理から除外するファイル
+# お決まりセット
+.vscode/
+__pycache__/
+.DS_Store
+
+# Pythonスクリプトで出力したCSVファイル
+/assets/csv/*.csv
+# Pythonスクリプトで出力した画像ファイル
+/assets/images/output/*.jpg

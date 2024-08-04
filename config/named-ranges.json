@@ -1,0 +1,19 @@
+{
+  "comment": [
+    "画像の各領域に名前を付与するための設定ファイル",
+    "以下のサイトで図形を描くと座標が表示されるので、それらの値をこのファイルに転記する",
+    "https://labs.d-s-b.jp/ImagemapGenerator/"
+  ],
+  "namedRanges": [
+    { "name": "A", "startX": 36, "startY": 17, "endX": 92, "endY": 69 },
+    { "name": "B", "startX": 513, "startY": 29, "endX": 572, "endY": 84 },
+    { "name": "C", "startX": 324, "startY": 65, "endX": 379, "endY": 116 },
+    { "name": "D", "startX": 303, "startY": 105, "endX": 359, "endY": 155 },
+    { "name": "E", "startX": 79, "startY": 123, "endX": 133, "endY": 175 },
+    { "name": "F", "startX": 452, "startY": 123, "endX": 509, "endY": 174 },
+    { "name": "G", "startX": 28, "startY": 160, "endX": 85, "endY": 211 },
+    { "name": "H", "startX": 123, "startY": 205, "endX": 182, "endY": 258 },
+    { "name": "I", "startX": 236, "startY": 239, "endX": 291, "endY": 290 },
+    { "name": "J", "startX": 424, "startY": 257, "endX": 482, "endY": 313 }
+  ]
+}
